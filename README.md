@@ -1,0 +1,2 @@
+# silvercoin
+silvercoincore
